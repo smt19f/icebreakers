@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "icebreakers",
+    "slug": "icebreakers",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
